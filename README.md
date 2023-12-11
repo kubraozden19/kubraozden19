@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💻I am a software engineer
+👩‍💻I'm a software engineer
 
 🔭I'm currently working on artificial intelligence
 
